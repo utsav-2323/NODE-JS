@@ -1,0 +1,36 @@
+what is Node.js ?
+-Node.js is a crossplat-pratprom
+-one_soursc java-scrip run time environmernt
+-on browser v8 java-scrip
+-java_scrip form server-side scripting
+-full_stack appliction using to single programming langvej
+
+what is server ?
+- a server is a computer that provide data, services, resources a program client over a network.
+
+what is Cross-platfrom ?
+- Cross-platfrom to software a run on multiple operating systems EX:-windows,macos,linux.
+
+Server-Side Scripting ?
+- Server-Side Scripting is a writhing code a run on server rather then client in browser.
+
+-: REPL :-
+-read,eval,print,loop
+
+-read:- read is code a terminal
+-eval:- evaluates the data sturcture
+-print:- prints the result
+-loop:- Repeats the above commands until exits (Ctrl+C , Ctrl+D)
+
+Global objects:-Node js is provide Server Global objects   and  appliction without Requiring 
+
+_filename:the absolute parth of file currently
+_diename:the absolute parth of directory currently
+
+Modules:-
+-Function or ferture whith import or Export.
+
+1.Core Modules
+2.Local Modules
+3.thred party Modules
+
